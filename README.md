@@ -8,7 +8,7 @@ Smart Expense Coach analyzes your bank statements locally in your browser to hel
 
 ### Key Features
 
-- **Privacy-First**: All processing happens in your browser. Zero data sent to servers.
+- **Privacy-First**: All processing happens in your browser.
 - **Behavioral Insights**: Discover patterns like late-night spending, weekend splurges, or convenience habits
 - **Auto-Categorization**: Intelligent categorization with learning from your manual corrections
 - **Visual Analytics**: Clean charts showing spending trends and category breakdowns
