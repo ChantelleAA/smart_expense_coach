@@ -5,7 +5,7 @@ A privacy-first web application that helps you understand your spending patterns
 ## 🌟 What is This?
 
 Smart Expense Coach analyzes your bank statements locally in your browser to help you understand **why** you spend money the way you do. It's not a budgeting app or financial advisor—it's more like a thoughtful friend who helps you recognize patterns in your behavior.
-
+    
 ### Key Features
 
 - **Privacy-First**: All processing happens in your browser.
